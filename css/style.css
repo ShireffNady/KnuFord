@@ -1445,7 +1445,7 @@ header .nav ul li a {
 }
 
 .con .cont .sub {
-    width: 530px;
+    width: 100%;
     padding: 10px 5px;
     border: none;
     margin-top: 10px;
@@ -1456,7 +1456,7 @@ header .nav ul li a {
 }
 
 .con .cont .tex-box {
-    width: 530px;
+    width: 100%;
     height: 100px;
     padding: 10px 5px;
     border: none;
